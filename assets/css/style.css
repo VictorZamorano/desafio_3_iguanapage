@@ -1,0 +1,90 @@
+header h1 {
+  color: white;
+  background-color: black;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.iguana-header {
+  background-image: url("../imgs/bg-header.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 50vh;
+  padding-top: 40em;
+  width: 100%;
+}
+
+.descripcion {
+  background-color: black;
+  color: white;
+  display: inline-block;
+  padding: 7rem;
+}
+
+.descripcion img {
+  float: right;
+  max-width: 570px;
+  max-height: 370px;
+  width: 100%;
+  height: 100%;
+}
+.descripcion p {
+  text-align: left;
+  padding: 0;
+  margin: 0;
+  width: 38%;
+}
+
+.caracteristicas {
+  background-color: #1e1a13;
+  opacity: 0.98;
+  color: white;
+  padding-top: 5rem;
+  display: flow-root;
+  text-align: center;
+}
+
+.caracteristicas h2 {
+  padding: 0;
+  margin: 0;
+  padding-bottom: 5rem;
+}
+
+.caract{
+  width: 30%;
+  float: left;
+  padding: 1%;
+  font-size: 3rem;
+  padding-bottom: 5rem;
+}
+
+.imagenes {
+  width: auto;
+  height: auto;
+  background-color: black;
+  padding: 73px;
+  display: flow-root;
+
+}
+
+.imagenes img {
+  width: auto;
+  height: auto;
+  max-width: 500px;
+  max-height: 281px;
+  padding: 2rem;
+}
+
+footer {
+  background-color: #1e1a13;
+  color: white;
+  padding: 2rem;
+}
+
+footer p {
+  margin: 0;
+  text-align: center;
+  font-size: 1.56rem;
+}
